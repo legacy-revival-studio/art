@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <rect width="1024" height="1024" fill="#fafafa" />
+  <rect x="14" y="14" width="996" height="996" fill="none" stroke="#3f3f46" stroke-width="28" />
+  <text x="512" y="530" font-family="system-ui, -apple-system, sans-serif" font-weight="600" font-size="390" fill="#09090b" text-anchor="middle" dominant-baseline="central">LR</text>
+</svg>
